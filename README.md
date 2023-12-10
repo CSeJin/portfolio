@@ -17,8 +17,11 @@
 ## :bulb: Projects
 ### 1. [데굴이](https://github.com/CSejin/project-deguli)
 ><b>병원 내 효율적인 이동을 위한 자율주행 휠체어 로봇</b>(팀프로젝트)
->개발 기간: 2023.04.01 ~ 2023.10.22 
+>
+>개발 기간: 2023.04.01 ~ 2023.10.22
+>
 >역할: 수동주행 및 사용자 ui 구현
+>
 >기술 스택: python3, ros1
 >
 > [프로젝트 상세설명](https://github.com/CSejin/project-deguli)
