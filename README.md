@@ -13,7 +13,6 @@
 
 ## :bulb: Contact
 - email: chltpwls1029@gmail.com
-- github: https://github.com/CSeJin
 
 </br>
 
@@ -26,8 +25,6 @@
 >역할: 수동주행 및 사용자 ui 구현
 >
 >기술 스택: python3, ros1
->
-> [프로젝트 상세설명](https://github.com/CSejin/project-deguli) 보기
 
 </br>
 
@@ -37,8 +34,6 @@
 > 개발 기간: 2023.06.02 ~ 2023.06.16
 > 
 > 기술 스택: oracle
->
-> [프로젝트 상세설명](https://github.com/CSeJin/project-mini_srt_DB) 보기
 
 </br>
 
@@ -48,5 +43,3 @@
 > 개발 기간: 2023.05.24 ~ 2023.06.03
 > 
 > 기술 스택: html5, css, java, jsp, mysql
->
-> [프로젝트 상세설명](https://github.com/CSejin/project-exhib) 보기
